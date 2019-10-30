@@ -2,7 +2,6 @@
     Even-Odd
     author: Sameer saini
  */
- import java.util.Scanner ;
  import java.util.* ;
 
 public class EvenOdd {
